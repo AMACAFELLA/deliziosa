@@ -40,6 +40,7 @@ const Footer = () => (
 
     <div className="footer__copyright">
       <p className="p__opensans">2022 Macafellas. All Rights reserved.</p>
+      <p className="p__opensans">Made with love by <a href='https://www.linkedin.com/in/angus-macapella/'>Angus Macapella</a>.</p>
     </div>
 
   </div>
