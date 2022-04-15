@@ -23,7 +23,7 @@ return(
       <div className='app__gallery-content'>
         <SubHeading title="Instagram" />
         <h1 className='headtext__cormorant'>Photo Gallery</h1>
-        <p className='p_opensans' style={{color: '#AAA', marginTop: '2rem'}}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos sunt a esse debitis voluptatibus repellat, non itaque eligendi magni commodi perferendis omnis tenetur facilis vel nesciunt libero id, vero magnam!</p>
+        <p className='p_opensans' style={{color: '#AAA', marginTop: '2rem'}}>We don't just sell a product, we sell a way of life. So to get a better understanding of what eating at Macafellas is all about (if you aren't already sold), we thought you might like to see some of our most popular dishes.</p>
         <button type='button' className='custom__button'>View More</button>
       </div>
 
