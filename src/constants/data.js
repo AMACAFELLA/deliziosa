@@ -2,57 +2,57 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'StrawB',
+    price: '$20',
+    tags: 'Strawberry | Banana',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Banana Bingo',
+    price: '$29',
+    tags: 'Bananas | berries',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Pineapple `pulse',
+    price: '$24',
+    tags: 'Strawberries | Pineapple',
   },
   {
-    title: 'Rhino Pale Ale',
+    title: 'Lemon Twist',
     price: '$31',
-    tags: 'CA | 750 ml',
+    tags: 'Bananas | Lemon',
   },
   {
-    title: 'Irish Guinness',
+    title: 'Green Tea',
     price: '$26',
-    tags: 'IE | 750 ml',
+    tags: 'Green tea | Vanilla Yogurt',
   },
 ];
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'Arnold Palmer',
     price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    tags: 'Iced tea | lemonade | soda | 30 ml',
   },
   {
-    title: "Dark 'N' Stormy",
+    title: "Molossolini",
     price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'Soft drink | mixed drink | Slice of lime',
   },
   {
-    title: 'Daiquiri',
+    title: 'Blackberry virgin mojito',
     price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    tags: 'blackberries | granulated sugar | lime juice',
   },
   {
-    title: 'Old Fashioned',
+    title: 'Popsicle Punch',
     price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    tags: 'lemon lime soda | mangoes | blackberries',
   },
   {
-    title: 'Negroni',
+    title: 'Lime Zinger',
     price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    tags: 'grape | strawberry | lime',
   },
 ];
 

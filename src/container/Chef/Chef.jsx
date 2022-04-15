@@ -16,14 +16,15 @@ const Chef = () => (
         <div className='app__chef-content'>
           <div className='app__chef-content_quote'>
             <img src={images.quote} alt='quote img' />
-            <p className='p__opensans'>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+            <p className='p__opensans'>We believe the best food is found in the company of people you enjoy.</p>
           </div>
-          <p className='p__opensans'>Vero obcaecati eum iusto impedit, accusantium accusamus, dignissimos in veniam deserunt aliquid cumque, praesentium quia cupiditate. Beatae est maxime sint perspiciatis? Quod.</p>
+          <p className='p__opensans'>This is what makes Macafellas fine and dine differently from the rest. We believe the dining experience should be a special, shared experience.</p>
+          <p className='p__opensans'>People who come to eat with us go home feeling more than just full—they go home with a different perspective on food and culture, and they go home knowing they have experienced something new and extraordinary.</p>
         </div>
 
         <div className='app__chef-sign'>
           <p>Kevin Luo</p>
-          <p className='p__opensans'>Chef & founder</p>
+          <p className='p__opensans'>Chef</p>
           <img src={images.sign} alt='sign img' />
         </div>
     </div>
